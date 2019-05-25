@@ -115,10 +115,20 @@
 >
 >> + ### 打开文件
 >>
+>>   ```c++
+>>   fstream txt;
+>>   txt.open("a.txt,ios::in");
+>>   string str;
+>>   while(!txt.eof()){
+>>       getline(txt,str);
+>>   }
+>>   ```
+>>
 >> + ### 关闭文件
 >>
->>   
+>>   ```c++
+>>   txt.close()
+>>   ```
+>>
 >
->
->
->
+
