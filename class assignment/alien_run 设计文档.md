@@ -171,12 +171,12 @@
 
 > `开始界面`
 
-![1559318800063](/home/blime/.config/Typora/typora-user-images/1559318800063.png)
+![选区_049](../class assignment/images/选区_049.png)
 
 > `游戏界面`
 
-![1559318960171](/home/blime/.config/Typora/typora-user-images/1559318960171.png)
+![选区_046](../class assignment/images/选区_046.png)
 
 > `死亡界面`
 
-![1559319195478](/home/blime/.config/Typora/typora-user-images/1559319195478.png)
+![选区_047](../class assignment/images/选区_047.png)
