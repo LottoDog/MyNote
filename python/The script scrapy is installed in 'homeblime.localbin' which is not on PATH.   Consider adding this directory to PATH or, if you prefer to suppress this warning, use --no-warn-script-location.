@@ -1,0 +1,22 @@
+#### The script scrapy is installed in '/home/xxx/.local/bin' which is not on PATH. Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+
+解决方法：
+
+```
+export PATH=/home/blime/.local/bin/:$PATH
+```
+
+```
+当然这只是暂时解决问题，下次还是不行。要想一直可以的话，就要把这句话，写到~/.zshrc或者~/.bashrc中
+写到那一个都没问题啦。
+bash的用：~/.bashrc
+zsh的用：～/.zshrc
+```
+
+```
+sudo vim ~/.zshrc 
+#把export PATH=/home/blime/.local/bin/:$PATH  放到最后
+source ~/.zshrc  
+#jiiu
+```
+
