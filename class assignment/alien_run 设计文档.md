@@ -171,12 +171,12 @@
 
 > `开始界面`
 
-![选区_049](./images/选区_049.png)
+![选区_049](./class assignment/images/选区_049.png)
 
 > `游戏界面`
 
-![选区_046](./images/选区_046.png)
+![选区_046](./class assignment/images/选区_046.png)
 
 > `死亡界面`
 
-![选区_047](./images/选区_047.png)
+![选区_047](./class assignment/images/选区_047.png)
