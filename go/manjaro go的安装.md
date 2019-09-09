@@ -31,7 +31,7 @@ wget https://dl.google.com/go/go1.12.7.linux-amd64.tar.gz
 提取压缩包到合适的目录(例如官方推荐的: /usr/local )：
 
 ```
-sudo tar -xzf go1.10.7.linux-amd64.tar.gz -C /usr/local
+sudo tar -xzf go1.12.7.linux-amd64.tar.gz -C /usr/local
 ```
 
 

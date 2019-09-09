@@ -15,7 +15,8 @@
   ZSH_THEME="ys"
 
   ```
-  sousource ~/.zshrc
+  source ~/.zshrc
   ```
 
   
+
